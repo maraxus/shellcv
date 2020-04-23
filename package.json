@@ -1,0 +1,26 @@
+{
+  "name": "shellcv",
+  "version": "1.0.0",
+  "description": "a cli which outputs a shell formated version, à la screenfetch, of your curriculum based on your linkedin profile info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maraxus/shellcv.git"
+  },
+  "keywords": [
+    "curriculum",
+    "cli",
+    "node",
+    "javascript",
+    "generator"
+  ],
+  "author": "Rodrigo Ferreira da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maraxus/shellcv/issues"
+  },
+  "homepage": "https://github.com/maraxus/shellcv#readme"
+}
